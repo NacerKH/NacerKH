@@ -9,5 +9,7 @@ Kali is a ✨ _special_ ✨
 - 📫 How to contact me: khalifa.mohamednaceur@esprit.tn
 - ⚡ Fun fact: Reading Repositories,Books
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalifa-dv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalifa-dv&hide=contribs,prs&count_private=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalifa-dv&hide=contribs,prs&count_private=true&theme=radical)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalifa-dv&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
+
