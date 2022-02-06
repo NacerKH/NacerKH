@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Kali is a ✨ _special_ ✨ 
+Kali is a ✨My Nickname✨ 
 
 - 🔭 I’m currently working on laravel
 - 🌱 I’m currently learning Python
