@@ -4,9 +4,9 @@
 Kali is  ✨My Nickname✨ 
 
 - 🔭 I’m currently working on laravel
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning vue 
 - 👯 I’m looking to collaborate on OpenSource Projects
-- 📫 How to contact me: khalifa.mohamednaceur@esprit.tn
+- 📫 How to contact me:  khalifa.mohamednaceur@esprit.tn | mednaceur199530@gmail.com
 - ⚡ Fun fact: Reading Repositories,Books
 
 <br/>
