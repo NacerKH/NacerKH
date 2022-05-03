@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Kali is  ✨My Nickname✨ 
+NickName:  ✨kali✨ 
 
 - 🔭 I’m currently working on laravel
 - 🌱 I’m currently learning vue 
