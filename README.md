@@ -4,7 +4,7 @@
 NickName:  ✨K A L I✨ 
 
 - 🔭 I’m currently working on laravel
-- 🌱 I’m currently learning vue 
+- 🌱 I’m currently learning vue , java 
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 📫 How to contact me:  khalifa.mohamednaceur@esprit.tn | mednaceur199530@gmail.com
 - ⚡ Fun fact: Reading Repositories,Books
