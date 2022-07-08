@@ -30,11 +30,14 @@ NickName:  ✨K A L I✨
 </p>
 <br/>
 
+### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalifa-dv&hide=contribs,prs&count_private=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khalifa-dv&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalifa-dv&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalifa-dv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
