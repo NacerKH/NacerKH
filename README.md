@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 NickName:  ✨K A L I✨ 
@@ -12,22 +12,29 @@ NickName:  ✨K A L I✨
 <br/>
 
 ## 🚀 Languages and Tools:
+
 <br/>
 
 
-<p align="center">
-<a href="https://laravel.com"><img src="https://img.icons8.com/fluency/48/000000/laravel.png" width="45" height="45"/></a>
- <a href="https://fr.reactjs.org"><img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png" width="45" height="45"/></a>
-<a href="https://nodejs.org"><img src="https://img.icons8.com/color/48/000000/nodejs.png"  width="45" height="45"/></a>
-<a href="https://getbootstrap.com"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="45" height="45"/></a>
-<a href="https://www.w3.org/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="45" height="45"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png" width="45" height="45"/></a>
-<a href="https://neo4j.com"><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="45" height="45"/></a>
-<a href="https://www.mysql.com"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="45" height="45"/></a>
-<a href="https://hadoop.apache.org"><img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png" width="45" height="45"/></a>
-<a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" width="45" height="45"/></a>
-<a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
-</p>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="LARAVEL" alt="LARAVEL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VUEJS" alt="VUEJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 <br/>
 
 ### :fire: My Stats :
