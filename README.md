@@ -39,7 +39,7 @@ NickName:  ✨K A L I✨
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khalifa-dv&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NacerKH&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <br/>
@@ -60,5 +60,5 @@ NickName:  ✨K A L I✨
 <br/>
 
 ## ❤ Views
-<a href="https://github.com/khalifa-dv/github-profile-views-counter">
+<a href="https://github.com/NacerKH/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=khalifa-dv">
