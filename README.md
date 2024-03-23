@@ -4,7 +4,7 @@
 NickName:  ✨K A L I✨ 
 
 - 🔭 I’m currently working on laravel, VUE JS ⚡
-- 🌱 I’m currently learning Docker CI/CD &  Angular & AWS & Jenkins & Ansible 
+- 🌱 I’m currently learning  AWS & Jenkins & Ansible  & GO Lang
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 📫 How to contact me:  khalifa.mohamednaceur@esprit.tn | mednaceur199530@gmail.com
 - ⚡ Fun fact: Reading Repositories,Books
