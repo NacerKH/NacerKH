@@ -4,14 +4,15 @@
 **Software Architect Engineer | AI & Cloud Enthusiast | Scalable Applications Builder**  
 
 I specialize in designing and building **scalable, event-driven applications** with modern architectures.  
-I’ve helped several **startups and agencies** grow into **stable, sustainable businesses** through software engineering, DevOps, and AI-powered solutions.  
+I’ve helped several **startups and agencies** grow into **stable, sustainable businesses** through software engineering, DevOps, observability, and AI-powered solutions.  
 
 ---
 
 ## 🚀 About Me  
 
 - 🔭 Currently working with **Laravel**, **Go**, and **Spring Boot**  
-- 🌱 Exploring **Cloud & DevOps** (AWS, OpenStack, Kubernetes, Jenkins, Ansible)  
+- 🌱 Exploring **Cloud & DevOps** (AWS, OpenStack, Kubernetes, Jenkins, AWX, Ansible)  
+- 📊 Passionate about **Observability** with **PLG (Prometheus, Loki, Grafana)**, **ELK**, and advanced monitoring tools  
 - 🤖 Building **AI-powered applications** with **RAG Pipelines** and **MCP Servers**  
 - 👯 Open to collaborating on **Open Source Projects** & **Tech Startups**  
 - 📜 Certified by **NVIDIA AI** in:
@@ -43,7 +44,12 @@ I’ve helped several **startups and agencies** grow into **stable, sustainable 
 - RAG Pipelines | MCP Server | NLP | Anomaly Detection  
 
 **☁️ DevOps & Cloud**  
-- OpenStack | Kubernetes | AWS | Jenkins | Ansible  
+- OpenStack | Kubernetes | AWS | Jenkins | AWX | Ansible  
+
+**📊 Observability & Monitoring**  
+- **PLG Stack** → Prometheus | Loki | Grafana  
+- **ELK Stack** → Elasticsearch | Logstash | Kibana  
+- **Additional Tools** → Gatus | Alertmanager | Sentry  
 
 ---
 
@@ -55,15 +61,24 @@ I’ve helped several **startups and agencies** grow into **stable, sustainable 
 
 ---
 
-## 📊 Stats & Badges  
+## 📊 Stats & Graphs  
 
 [![committers.top badge](https://user-badge.committers.top/tunisia_private/NacerKH.svg)](https://committers.top/tunisia_private/NacerKH)  
 [![Pinkary](https://pinkary.com/storage/avatars/28a685d8c7afebcfbda0f87c2ef42345381af72d5fbf10d03ddef1645a575d64.png)](https://pinkary.com/@Nacer)  
 
 <br/>  
 
-### 🔥 GitHub Stats  
+### 🔥 GitHub Streak  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NacerKH&theme=dark&background=000000)](https://git.io/streak-stats)  
+
+### 📈 GitHub Summary Card  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NacerKH&theme=github_dark)  
+
+### 🏆 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NacerKH&layout=compact&theme=dark&hide_border=true)  
+
+### 📊 Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NacerKH&theme=react-dark&hide_border=true)  
 
 ---
 
@@ -84,4 +99,4 @@ I’ve helped several **startups and agencies** grow into **stable, sustainable 
 
 ---
 
-⚡ *"Architecture is not just about code — it’s about building intelligent, scalable systems that last."*  
+⚡ *"Architecture is not just about code — it’s about building intelligent, scalable, and observable systems that last."*  
