@@ -10,7 +10,7 @@ I’ve helped several **startups and agencies** grow into **stable, sustainable 
 
 ## 🚀 About Me  
 
-- 🔭 Currently working with **Laravel**, **Go**, and **Spring Boot**  
+- 🔭 Currently working with **Laravel**, **Go**
 - 🌱 Exploring **Cloud & DevOps** (AWS, OpenStack, Kubernetes, Jenkins, AWX, Ansible)  
 - 📊 Passionate about **Observability** with **PLG (Prometheus, Loki, Grafana)**, **ELK**, and advanced monitoring tools  
 - 🤖 Building **AI-powered applications** with **RAG Pipelines** and **MCP Servers**  
